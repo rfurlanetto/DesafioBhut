@@ -1,0 +1,11 @@
+{
+    "name": "desafio/bhut",
+    "description": "Desafio para a vaga de desenvolvedor php",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+             "SRC\\": "src/"
+         }
+      }
+}
